@@ -1,2 +1,2 @@
-# armory
+# Armory
 Set of tools
